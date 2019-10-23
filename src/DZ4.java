@@ -1,9 +1,5 @@
-package com.company;
-
 import java.util.Scanner;
-
-public class Main {
-
+public class DZ4 {
     public static void main(String[] args) {
 
         Scanner in = new Scanner(System.in);
@@ -15,7 +11,4 @@ public class Main {
         System.out.println("Вы ввели число " + number);
 
     }
-
-
-
 }
